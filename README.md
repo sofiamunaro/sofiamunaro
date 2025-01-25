@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me!
+Statistics and Data Science student at University of São Paulo 
+
+![usp jpg](https://github.com/user-attachments/assets/dbbc6002-efdf-4678-9034-b5bb1f78314d)
+
 
 <!--
 **sofiamunaro/sofiamunaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
